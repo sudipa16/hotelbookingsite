@@ -1,0 +1,12 @@
+div{
+    display: block;height: 100px;border: 1px solid black;
+}
+a{
+   float:left; display: block;width: 70px; text-decoration: none;text-align: center;
+}
+#logo{
+    float:left;width:200px; height:parent-match;
+}
+.loginform{
+    display: block; float:left; margin: 100px 0px 0px 500px;
+}
